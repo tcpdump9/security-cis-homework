@@ -1,0 +1,5 @@
+password 1
+firewall 1
+root_access 1
+updates 1
+block_policy 1
